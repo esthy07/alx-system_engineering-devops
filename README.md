@@ -1,1 +1,1 @@
-shell basics
+create a script that creates a directory
