@@ -1,1 +1,1 @@
-File 5-listfilesdigitonly display current directory contents
+File 6-firstdirectory create a script that creates a directory
