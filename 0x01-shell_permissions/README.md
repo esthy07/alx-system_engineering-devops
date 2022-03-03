@@ -1,1 +1,1 @@
-File 6-multiple_permissions adds execute permissions to the owner and the group owner
+File 7-everybody adds execution permission to the owner ,the group owner and the other users
