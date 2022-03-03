@@ -1,1 +1,1 @@
-File 12-file_type prints the type of the file
+File 13-symbolic_link create a symbolic link
