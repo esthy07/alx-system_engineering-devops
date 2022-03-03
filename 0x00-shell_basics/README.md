@@ -1,1 +1,1 @@
-File 1-listit display the contents list of your current directory
+File 3-listfiles display current directory contents in a long format
