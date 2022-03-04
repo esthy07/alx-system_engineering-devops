@@ -1,1 +1,1 @@
-File 100-change_owner_and_group change the owner to vincent and the group owner to staff
+File 101-symbolic_link_permissions changes the oner and the group owner of _hello  to vincent and staff
