@@ -1,1 +1,1 @@
-File 7-file creates a file named exactly and containing the text Best School ending by a new line
+File 8-cwd_state writes into the file ls_cwd_content the result of the command ls -la
