@@ -1,1 +1,1 @@
-File 0-hello_world prints hello world followel by a newline to the standart ouput
+File 1-confused_smiley displays a confused smiley
