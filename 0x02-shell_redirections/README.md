@@ -1,1 +1,1 @@
-File 19-AZ replace all characters  A and c from input to z and e respectively
+File 20-hiago removes all letters c and c from input
