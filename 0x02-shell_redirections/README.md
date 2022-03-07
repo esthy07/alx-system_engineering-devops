@@ -1,1 +1,1 @@
-File 12-newest_files displays the 10 newest file in the current directory
+File 13-unique takes a list of words as input and print only words that appear  exactly once
