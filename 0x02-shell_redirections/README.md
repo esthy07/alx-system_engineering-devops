@@ -1,1 +1,1 @@
-File 6-third_line displays the third line of the file iacta
+File 7-file creates a file named exactly and containing the text Best School ending by a new line
