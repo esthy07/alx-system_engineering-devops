@@ -1,1 +1,1 @@
-File 1-confused_smiley displays a confused smiley
+File 2-hellofile display the content of the /etc/passwd file
