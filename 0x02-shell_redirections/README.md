@@ -1,1 +1,1 @@
-File 14-findthatword display lines containing the pattern "oot" from the file /etc/passwd
+File 15-countthatword display the number of lines that contain the pattern "bin" in the file /etc/passwd
