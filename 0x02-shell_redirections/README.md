@@ -1,1 +1,1 @@
-File 9-duplicate_last_line e duplicates the last line of the file iacta
+File 10-no_more_js deletes all the regular files with a .js extention that are present in the current directory and all its subfolder
