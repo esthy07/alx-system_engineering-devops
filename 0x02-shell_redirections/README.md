@@ -1,1 +1,1 @@
-File 11-directories counts the number of directories and sub-directories in the current directory
+File 12-newest_files displays the 10 newest file in the current directory
