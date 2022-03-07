@@ -1,1 +1,1 @@
-File 20-hiago removes all letters c and c from input
+File 21-reverse reverse its input
