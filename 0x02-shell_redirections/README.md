@@ -1,1 +1,1 @@
-File 10-no_more_js deletes all the regular files with a .js extention that are present in the current directory and all its subfolder
+File 11-directories counts the number of directories and sub-directories in the current directory
