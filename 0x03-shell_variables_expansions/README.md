@@ -1,1 +1,1 @@
-File 3-paths counts the number of directories in the path
+File 4-global_variables lists environment variables
