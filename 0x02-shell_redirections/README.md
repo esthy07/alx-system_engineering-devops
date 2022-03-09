@@ -1,1 +1,1 @@
-File 22-users_and_homes displays all users and their homes directories, sorted by users
+File 100-empty_casks finds all empty files and directies in the current directory and all sub_directories
