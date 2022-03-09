@@ -1,1 +1,1 @@
-File 101-rot13 encodes and decodes text using the rot13 encryption. Assume ASCII
+File 102-odd prints every other line from the input, starting with the first line
