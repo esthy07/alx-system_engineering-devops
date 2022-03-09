@@ -1,1 +1,1 @@
-File 9-divide_and_rule prints the results of POWER divided by DIVIDE followed by a new line
+File 10-love_exponent_breath display the resultof BREATH to the power love
